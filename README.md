@@ -7,6 +7,7 @@ Louisville, Kentucky · laurenoflouisville@icloud.com
 ## WHAT'S HERE
 
 - [Resume (PDF)](Lauren%20Kemme%20-%20Resume.pdf)
+- [Kentucky Field Notes (PDF)](Kentucky%20Field%20Notes.pdf): two pages on Hawesville, resident concerns, who decides what, and a year ahead
 - Case studies, one page each, built from public records and my own reports:
   - [Office engagement plan, 2026 to 2027](case-studies/office-engagement-plan.md): a year of events, costs and a scoring method for a 60-person office
   - [Split tax rate research](case-studies/split-tax-rate-research.md): 36 jurisdictions studied for the Jefferson County PVA
