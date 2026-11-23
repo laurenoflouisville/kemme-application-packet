@@ -1,8 +1,8 @@
-# Office engagement plan, 2026 to 2027
+# OFFICE ENGAGEMENT PLAN, 2026 TO 2027
 
 **What it is:** a year-long engagement plan for a 60-person government office, built after I was asked to research how engaged staff were and then took it further into a forward-looking plan. It is a 19-slide presentation with a calendar, costs and a scoring method for new ideas.
 
-## What I did
+## WHAT I DID
 
 - Reviewed what the office already does well: seasonal picnics and lunches, contests, a quarterly newsletter, a birthday club, a food drive, awareness-month recognition.
 - Built an annual calendar with an estimated cost for every event, and found three empty months (August, January, February).
@@ -14,6 +14,6 @@
 - Matched ideas to the empty months and gave the immediate focus: closing out appeals season with recognition at almost no cost.
 - Next steps: a short staff survey so the team votes on the new ideas, then pilot Tier 1 over the summer.
 
-## What it shows
+## WHAT IT SHOWS
 
 Starting from what people already love, measuring new ideas against it, and keeping costs low. The same approach would apply to a community: build on what a place already does, and test new ideas against what people value.

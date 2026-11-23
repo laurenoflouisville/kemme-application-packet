@@ -1,8 +1,8 @@
-# YHARTA: You Have a Right to Appeal
+# YHARTA: YOU HAVE A RIGHT TO APPEAL
 
 **What it is:** a Jefferson County PVA outreach program started in 2019 to explain property assessments and help people use their right to appeal. It is a team program. I joined after it started and help run it.
 
-## The program (team facts)
+## THE PROGRAM (TEAM FACTS)
 
 - Each year: pre-assessment postcards, hybrid community meetings in the area being reassessed, then appeal help at libraries and city halls, evening sessions, Saturdays and phone appointments.
 - The meeting calendar is translated into the six most used languages in the county.
@@ -14,7 +14,7 @@
 
 Source: [PVA 2025 Annual Report](https://jeffersonpva.ky.gov/wp-content/uploads/2026/02/Email-Copy-Final-Annual-Report-2025-2-compressed.pdf)
 
-## What I do
+## WHAT I DO
 
 - Run tech and setup at meetings, welcome attendees, answer questions on the floor and watch the room.
 - Give one-on-one appeal help every appeals season, at city halls, evening sessions and month-long library residencies.
